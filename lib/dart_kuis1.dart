@@ -19,8 +19,8 @@ void main() {
   print(lastName);
 
   //Tugas 4
-  final array1 = {1, 2, 3};
-  const array2 = {4, 5, 6};
+  final array1 = [1, 2, 3];
+  var array2 = [4, 5, 6];
 
   array1[0] = 100;
   array2[0] = 100;
